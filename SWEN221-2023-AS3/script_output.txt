@@ -1,0 +1,47 @@
+<b>Assignment_3 Submission (20 files):</b>
+
+<pre>
+swen221/cards/Main.java
+swen221/cards/core/CardGame.java
+swen221/cards/core/Hand.java
+swen221/cards/core/Card.java
+swen221/cards/core/Player.java
+swen221/cards/core/Trick.java
+swen221/cards/core/IllegalMove.java
+swen221/cards/tests/Part4.java
+swen221/cards/tests/Part2.java
+swen221/cards/tests/Part1.java
+swen221/cards/tests/Part3.java
+swen221/cards/util/AbstractComputerPlayer.java
+swen221/cards/util/AbstractCardGame.java
+swen221/cards/util/SimpleComputerPlayer.java
+swen221/cards/variations/SingleHandWhist.java
+swen221/cards/variations/KnockOutWhist.java
+swen221/cards/variations/ClassicWhist.java
+swen221/cards/viewer/TableFrame.java
+swen221/cards/viewer/ConfigurationDialog.java
+swen221/cards/viewer/TableCanvas.java
+</pre>
+
+<b>Testing (stdout):</b>
+<pre>
+========================================
+Tests
+========================================
+testInvalidPlay_1 ................... OK
+
+Tests Total: 1 / 1
+
+========================================
+Tests.testInvalidPlay_1 (OK)
+========================================
+WARNING: A command line option has enabled the Security Manager
+WARNING: The Security Manager is deprecated and will be removed in a future release
+
+
+</pre>
+
+<b>Testing (stderr):</b>
+<pre>
+
+</pre>
